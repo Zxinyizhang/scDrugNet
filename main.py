@@ -1,5 +1,5 @@
 from msi.msi import MSI
-from diff_prof.diffusion_profiles import DiffusionProfiles
+from diffusion_profiles import DiffusionProfiles
 import multiprocessing
 import numpy as np
 import pickle
